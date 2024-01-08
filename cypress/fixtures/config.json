@@ -1,0 +1,16 @@
+{
+    "userName" : "Admin",
+    "password" : "admin123",
+    "loginURL" : "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "firstName" : "James",
+    "middleName" : "Tiberius",
+    "lastName" : "Kirk",
+    "userEmail" : "ogkirk@company.com",
+    "userProject" : "Apache Software Foundation",
+    "startDate" : "2021-01-01",
+    "endDate" : "2023-12-31"
+
+
+}
+
+
